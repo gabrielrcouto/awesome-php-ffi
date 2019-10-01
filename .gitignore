@@ -1,0 +1,6 @@
+*.bin
+.DS_Store
+*.dylib
+*.gb
+*.gbc
+*.smc

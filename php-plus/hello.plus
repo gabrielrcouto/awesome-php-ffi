@@ -1,0 +1,1 @@
+echo 'Hello from PHP Plus \o/ ' . strtoupper('yeah') . PHP_EOL;
