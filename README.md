@@ -25,3 +25,5 @@ Other repositories about PHP FFI:
 - [PHP TensorFlow Binding](https://github.com/dstogov/php-tensorflow)
 - [FFIMe](https://github.com/ircmaxell/FFIMe)
 - [A compiler. For PHP](https://github.com/ircmaxell/php-compiler)
+- [PHP Webcam](https://github.com/vdechenaux/PhpWebcam)
+- [Pure PHP Kafka Client library based on php7.4-dev, ffi and librdkafka](https://github.com/dirx/php-ffi-librdkafka)
