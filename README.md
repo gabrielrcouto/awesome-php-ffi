@@ -27,3 +27,5 @@ Other repositories about PHP FFI:
 - [A compiler. For PHP](https://github.com/ircmaxell/php-compiler)
 - [PHP Webcam](https://github.com/vdechenaux/PhpWebcam)
 - [Pure PHP Kafka Client library based on php7.4-dev, ffi and librdkafka](https://github.com/dirx/php-ffi-librdkafka)
+- [PHP OpenGL (SDL) Demo](https://github.com/SerafimArts/opengl-demo)
+- [SDL Image bindings for PHP](https://github.com/SerafimArts/ffi-sdl-ttf)
