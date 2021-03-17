@@ -31,7 +31,7 @@ Other repositories about PHP FFI:
 - [SDL Image bindings for PHP](https://github.com/SerafimArts/ffi-sdl-ttf)
 - [PHP-IUP Gui ToolKit using FFI](https://github.com/ghostjat/php-iup)
 - [Shooter game written using PHP 7.4 FFI](https://github.com/darkin1/PhpShooter)
-- [PHP-DARKNET for object detection using FFI](https://https://github.com/ghostjat/php-darknet)
+- [PHP-Darknet for object detection using FFI](https://https://github.com/ghostjat/php-darknet)
 
 PHP FFI tricks:
 
